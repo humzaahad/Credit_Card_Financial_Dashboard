@@ -27,7 +27,7 @@ CREATE TABLE cc_detail (
 );
 
 
--- 2. Create cc_detail table
+-- 2. Create cust_detail table
 
 CREATE TABLE cust_detail (
     Client_Num INT,
